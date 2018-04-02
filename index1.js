@@ -8,7 +8,7 @@ function main() {
 		$(this).next().slideToggle(400);
     //$(this).slideToggle(400);
     $(this).toggleClass('active');
-    $(this).text('Hello world!');
+    $(this).text('Hi!!.. Hello world!');
 	});
 }
 
